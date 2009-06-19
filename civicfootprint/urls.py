@@ -5,6 +5,7 @@ from django.conf.urls.defaults import *
 # admin.autodiscover()
 
 urlpatterns = patterns('',
+    (r'^$', 'civicfootprint.footprint.views.homepage'),
     # Example:
     # (r'^civicfootprint/', include('civicfootprint.foo.urls')),
 
