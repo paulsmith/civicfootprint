@@ -1,0 +1,2 @@
+-e svn+http://code.djangoproject.com/svn/django/trunk@11079#egg=Django-1.1_beta_1-py2.6-dev
+psycopg2==2.0.11
